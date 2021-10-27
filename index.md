@@ -8,4 +8,4 @@
 - [esempi in Python](https://github.com/albertoferrari/oop-Python/tree/main/esempi)
 
 ### materiale
-- [materiale](https://albertoferrari.github.io/oop-Python/materiale)
+- [materiale](https://albertoferrari.github.io/bigdata/materiale)
