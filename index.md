@@ -5,7 +5,7 @@
 - [Linguaggio Python](http://albertoferrari.github.io/bigdata/lezioni/BD03-Python.pdf)
 
 ### esempi ed esercizi
-- [esempi in Python](https://github.com/albertoferrari/oop-Python/tree/main/esempi)
+- [esempi in Python](https://github.com/albertoferrari/bigdata/tree/main/esempi)
 
 ### materiale
 - [materiale](https://albertoferrari.github.io/bigdata/materiale)
