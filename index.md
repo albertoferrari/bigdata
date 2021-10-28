@@ -3,6 +3,7 @@
 - [Dati e Big Data](http://albertoferrari.github.io/bigdata/lezioni/BD02-dati.pdf)
 - [Regolamento europeo per la protezione dei dati](http://albertoferrari.github.io/bigdata/lezioni/BD02b-Regolamento_protezione_dati.pdf)
 - [Linguaggio Python](http://albertoferrari.github.io/bigdata/lezioni/BD03-Python.pdf)
+- [Memorizzazione](http://albertoferrari.github.io/bigdata/lezioni/BD04-memorizzazione.pdf)
 
 ### esempi ed esercizi
 - [esempi in Python](https://github.com/albertoferrari/bigdata/tree/main/esempi)
