@@ -6,7 +6,7 @@
 - [Memorizzazione](http://albertoferrari.github.io/bigdata/lezioni/BD04-memorizzazione.pdf)
 - [Data Analysis](http://albertoferrari.github.io/bigdata/lezioni/BD05-data_analysis.pdf)
 
-### esempi ed esercizi
+### esempi
 - [esempi in Python](https://github.com/albertoferrari/bigdata/tree/main/esempi)
 
 ### materiale
