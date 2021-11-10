@@ -6,6 +6,7 @@
 - [Linguaggio Python](http://albertoferrari.github.io/bigdata/lezioni/BD03-Python.pdf)
 - [Memorizzazione](http://albertoferrari.github.io/bigdata/lezioni/BD04-memorizzazione.pdf)
 - [Data Analysis](http://albertoferrari.github.io/bigdata/lezioni/BD05-data_analysis.pdf)
+- [Machine learning](http://albertoferrari.github.io/bigdata/lezioni/BD08-machine_learning.pdf)
 
 ### esempi
 - [esempi in Python](https://github.com/albertoferrari/bigdata/tree/main/esempi)
